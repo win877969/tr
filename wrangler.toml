@@ -6,6 +6,7 @@ pattern = "tr.bmkg.xyz"
 custom_domain = true
 
 [vars]
+password = "auto"
 PROXYIP = "35.219.15.90"
  # 35.219.15.90 ID
  # 51.79.254.182
